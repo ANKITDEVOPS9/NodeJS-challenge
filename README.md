@@ -40,3 +40,4 @@ This project is implemented in NodeJS and tested on versions _v8_, _v9_ and _v10
   - Test file: `test_deepClone.js`
 
 > Driver files are a demo of module usage
+yes
